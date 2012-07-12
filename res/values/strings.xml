@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello1">Welcome to DTC Connect</string>
+    <string name="app_name">DTC Connect</string>
+    <string name="hello2">One App for all your DTC related query.</string>
+    <string name="btnFindRouteInfoText">Find Routes\' Details</string>
+    <string name="btnFindBusesText">Buses On a Stand</string>
+    <string name="txtSelectRoute">Select a Route:</string>
+    <string name="spinRoutesPrompt">Select Route.</string>
+    <string name="btnRouteSubmitText">Submit</string>
+    <string name="txtSelectStand">Select Bus Stand:</string>
+    <string name="txtSelectSource">Select Source:</string>
+    <string name="txtSelectDestination">Select Destination:</string>
+    <string name="btnFindRoutes2Text">Find Buses between 2 Stands</string>
+
+</resources>

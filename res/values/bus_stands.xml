@@ -1,0 +1,1090 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="busStands">
+		<item> 13-BLK TRILOKPURI </item>
+		<item> 26-BLK. TRILOKPURI </item>
+		<item> 27-BLOCK TRILOK PUR </item>
+		<item> A-5/6 NARELA </item>
+		<item> A-7 XING NARELA </item>
+		<item> A-9 Narela </item>
+		<item> ABDUL FAZAL ENCLAVE </item>
+		<item> ABDUL FAZAL ENCL PKT-2 </item>
+		<item> A-BLK INDER PURI </item>
+		<item> A-BLK JAGAT PURI </item>
+		<item> A- BLOCK SONIA VIHAR PUSTA NO-1 </item>
+		<item> ADARSH NAGAR </item>
+		<item> ADCHINI </item>
+		<item> AE-BLK SHALIMAR BAGH </item>
+		<item> AGHA PUR </item>
+		<item> AGHA PUR VILL. </item>
+		<item> AIIMS </item>
+		<item> AJMERI GATE </item>
+		<item> AKBER PUR MAJRA X-ING </item>
+		<item> AKBER PUR VILL </item>
+		<item> ALAKNANDA  </item>
+		<item> ALIPUR </item>
+		<item> Ambedkar Ngr </item>
+		<item> AMBEDKAR NGR SEC-IV </item>
+		<item> AMBEDKAR NGR T. </item>
+		<item> AMBEDKAR STADIUM </item>
+		<item> AMITY INTERNATIONAL SCHOOL </item>
+		<item> AMITY INTER NATIONAL SCHOOL.SEC.-44 </item>
+		<item> ANAND PARVAT </item>
+		<item> ANAND VIHAR ISBT </item>
+		<item> ANDH VIDHALYA </item>
+		<item> ANDREWS GANJ </item>
+		<item> A.N.SEC-4 </item>
+		<item> A.N.TERMINAL </item>
+		<item> ARCHNA CENEMA </item>
+		<item> ARYA SMAJ ROAD </item>
+		<item> ASHOK NAGAR </item>
+		<item> ASHOK VIHAR MKT PH-1 </item>
+		<item> ASHOK VIHAR PH-I </item>
+		<item> ASHOK VIHAR WATER TANK </item>
+		<item> ASHOK VIHAR W/ TANK </item>
+		<item> ASHOK VIHAR XING </item>
+		<item> ASHRAM </item>
+		<item> ASHTHAL POOTH </item>
+		<item> ATTA CHOWK </item>
+		<item> ATTA XING </item>
+		<item> AUCHANDI BORDER </item>
+		<item> AUCHANDI SCHOOL </item>
+		<item> UCHANDI VILLAGE </item>
+		<item> AVANTIKA X-ING </item>
+		<item> AVINTIKA MORE </item>
+		<item> AZAD MARKET (DCM) </item>
+		<item> AZAD PUR </item>
+		<item> AZAD PUR MANDI </item>
+		<item> AZAD PUR TERMINAL </item>
+		<item> AZAD PUR XING </item>
+		<item> B-3 KESAV PURAM </item>
+		<item> B-3 VASANT KUNJ </item>
+		<item> B-4 NARELA </item>
+		<item> BABA BISHEMBER DASS ASHRAM </item>
+		<item> BABA COLONY </item>
+		<item> BABAR PUR </item>
+		<item> BABAR PUR EXTN. </item>
+		<item> BADA BAGH </item>
+		<item> BADARPUR </item>
+		<item> BADARPUR M.B. ROAD </item>
+		<item> BADLI RLY STATION </item>
+		<item> BADLI SCHOOL </item>
+		<item> BADLI XING  </item>
+		<item> BAJEET PUR </item>
+		<item> BAKAULI XING </item>
+		<item> BAKHTAWAR PUR CHOWK </item>
+		<item> BAKHTAWAR PUR GARHI </item>
+		<item> BAKHTAWAR PUR SCHOOL </item>
+		<item> BAKHTAWAR PUR VILLAGE </item>
+		<item> BAKNER BASTI </item>
+		<item> BAKNER SCHOOL </item>
+		<item> BAKNER VILL. </item>
+		<item> BAKOLI </item>
+		<item> BAKOLI TEMPLE </item>
+		<item> BAKOLI XING </item>
+		<item> BALAK RAM HOSPITAL </item>
+		<item> BALA SAHIB GURUDWARA </item>
+		<item> BAL BHAWAN </item>
+		<item> BALCO APTT. </item>
+		<item> BANK CLY. </item>
+		<item> BANKNER VILLAGE </item>
+		<item> BARA BAGH </item>
+		<item> BARAR SQUARE </item>
+		<item> BARODA HOUSE/DELHI HIGH COURT </item>
+		<item> BARODA HOUSE </item>
+		<item> BARODA HOUSE/INDIA GATE </item>
+		<item> BARODA HOUSE / NATIONAL STADIUM </item>
+		<item> BAROLA VILLAGE </item>
+		<item> BARWALA PATHSHALA </item>
+		<item> BATLA HOUSE  </item>
+		<item> BATRA HOSPITAL </item>
+		<item> BAWANA  </item>
+		<item> BAWANA CANAL </item>
+		<item> BAWANA DEPOT </item>
+		<item> BAWANA JJ COLONY </item>
+		<item> BAWANA SCHOOL </item>
+		<item> BAZID PUR </item>
+		<item> B-BLK JHILMIL COLONY </item>
+		<item> BBM DEPOT </item>
+		<item> BC BLOCK JAHANGIR PURI </item>
+		<item> BEGAM PUR </item>
+		<item> BERI WALA BAGH </item>
+		<item> BHAGEL VILL. </item>
+		<item> BHAI MATI DASS CHOWK </item>
+		<item> BHAI PARMANAND COLONY </item>
+		<item> BHAJAN PURA </item>
+		<item> BHALSWA DAIRY </item>
+		<item> BHALSWA JJ COLONY </item>
+		<item> BHALSWA XING </item>
+		<item> BHANGEL </item>
+		<item> Bhangel VILLAGE </item>
+		<item> BHARAT NAGAR XING </item>
+		<item> BHAROLA VILLAGE </item>
+		<item> BHARTI NAGAR </item>
+		<item> BHASWA DAIRY </item>
+		<item> BH BLK SHALIMAR BAG </item>
+		<item> BH. MAHAVIR HOSPITAL </item>
+		<item> BHOGAL </item>
+		<item> BHOGAL ASHRAM </item>
+		<item> BHORE GARH </item>
+		<item> BMD CHOWK </item>
+		<item> BRAHAM PURI GALI NO 10 </item>
+		<item> BRAR SQUARE </item>
+		<item> B.R.HOSPITAL </item>
+		<item> BRITANIA BISCUIT FACTORY </item>
+		<item> BUDH PUR </item>
+		<item> BUDH PUR XING </item>
+		<item> BUDH VIHAR </item>
+		<item> BURARI CROSSING </item>
+		<item> BURARI GARHI </item>
+		<item> BURARI VILLAGE </item>
+		<item> BURARI XING </item>
+		<item> C-12 YAMUNA VIHAR </item>
+		<item> C-1 YAMUNA VIHAR </item>
+		<item> C-4 YAMUNA VIHAR </item>
+		<item> C-BLK SARASWATI VIHAR </item>
+		<item> CENTRAL SCHOOL </item>
+		<item> CENTRAL WORK SHOP -II </item>
+		<item> CHAND CINEMA </item>
+		<item> CHANDER NAGAR </item>
+		<item> CHANDER VIHAR </item>
+		<item> CHAUHAN PATTI </item>
+		<item> CHELLRA VILLAGE </item>
+		<item> CHIRAG DELHI </item>
+		<item> CHITRA GUPTA ROAD </item>
+		<item> CHOWKI NO 2 </item>
+		<item> CIS COLONY </item>
+		<item> CLARIDGE HOSTEL </item>
+		<item> CLOCK TOWER </item>
+		<item> COLLGE OF BUSINESS STUDIES </item>
+		<item> CORPORATION OFFICE </item>
+		<item> CPWD CLY. VASANT VIHAR </item>
+		<item> CPWD OFFICE </item>
+		<item> CRESENT SCHOOL </item>
+		<item> C.R.PARK </item>
+		<item> C.R.PARK MELA GROUND </item>
+		<item> C.R.PARK MKT.-1 </item>
+		<item> CRPF CENTRE </item>
+		<item> C.W.SHOP-II TEHKHAN </item>
+		<item> DALLU PURA </item>
+		<item> DAL MILL </item>
+		<item> DARIYA GANJ </item>
+		<item> DARIYA PUR SCHOOL </item>
+		<item> DARYA PUR VILLAGE </item>
+		<item> DAYA BASTI </item>
+		<item> DAYAL PUR </item>
+		<item> DAYAL SINGH COLLEGE </item>
+		<item> D.B.GUPTA MARKET </item>
+		<item> D.B. GUPTA RD </item>
+		<item> D-BLK MANGOL PURI </item>
+		<item> DCM  </item>
+		<item> DCM CHOWK </item>
+		<item> DDA FLATS JHILMIL </item>
+		<item> DDA FLATS KALKAJI </item>
+		<item> DDA MUNIRKA </item>
+		<item> DDA OFFICE PITAM PURA </item>
+		<item> DDU MARG </item>
+		<item> DEEP CINEMA </item>
+		<item> DEEP MARKET </item>
+		<item> DEEP VIHAR </item>
+		<item> DEFENCE COLONY  </item>
+		<item> DEFENCE COLONY ANDREWS GANJ </item>
+		<item> DEFENCE COLONY P. PUMP </item>
+		<item> DEHISARA BDR </item>
+		<item> DELHI ENG. COLLEGE SHAHBAD </item>
+		<item> DELHI GATE </item>
+		<item> DELHI POLICE CENTRE </item>
+		<item> DELHI SECTT. </item>
+		<item> DESU OFFICE </item>
+		<item> DEV NAGAR </item>
+		<item> DHAKKA VILLAGE </item>
+		<item> DHAKKE WALA </item>
+		<item> DHARAM SHILA CANCER HOSP. </item>
+		<item> DHARMA APARTMENT </item>
+		<item> DHAULA KUAN </item>
+		<item> DIGAMBER JAIN MARG </item>
+		<item> DILSHAD GARDEN GOVT SCHOOL </item>
+		<item> DILSHAD GARDEN GT ROAD </item>
+		<item> DILSHAD GARDEN TERMINAL </item>
+		<item> DISTT. CENTRE </item>
+		<item> DON BASCO SCHOOL </item>
+		<item> DPS MATHURA ROAD </item>
+		<item> DR. APPTT. </item>
+		<item> DRIYA PUR SCHOOL </item>
+		<item> DR.MUKHERJEE NGR BANDH </item>
+		<item> DR.RML HOSPITAL </item>
+		<item> DSIDC XING </item>
+		<item> DURGA CHOWK </item>
+		<item> EAST END APPTT (NEW ASHOK NGR) </item>
+		<item> EASTERN COURT </item>
+		<item> EAST PATEL NAGAR </item>
+		<item> EAST VINOD NAGAR </item>
+		<item> E-BLK. SAKET </item>
+		<item> E-BLOCK JAHANGIRPUR </item>
+		<item> E-BLOCK SHASTRI NAGAR </item>
+		<item> ENGINEERING COLLEGE </item>
+		<item> ESI HOSPITAL </item>
+		<item> FAIZ ROAD </item>
+		<item> FAIZ ROAD K.BAGH </item>
+		<item> FATEH PURI </item>
+		<item> F-BLK KIRTI NAGAR </item>
+		<item> F-BLK.RAGHUBIR NGR </item>
+		<item> FEROZSHAH ROAD </item>
+		<item> FILMISTAN </item>
+		<item> FIROZSHAH ROAD </item>
+		<item> GAGAN CINEMA </item>
+		<item> GAGAN CINEMA XING </item>
+		<item> GAMRI EXTN. 1 </item>
+		<item> GAMRI EXTN (PUSTA NO-5) </item>
+		<item> GANDHI NGR </item>
+		<item> GANDHI VIHAR </item>
+		<item> GARHI LAJPAT NAGAR </item>
+		<item> GARHI VILLAGE </item>
+		<item> GARHI XING </item>
+		<item> GARISION ENGINEER </item>
+		<item> GAUTAM PURI </item>
+		<item> GHAZIPUR DAIRY FARM </item>
+		<item> GHAZIPUR VILLAGE </item>
+		<item> G-BLK/SUNEHRI MASJID </item>
+		<item> GG SINGH MARG </item>
+		<item> GG SINGH XING </item>
+		<item> GHAROLI DAIRY FARM </item>
+		<item> GHAROLI DDA FLATS </item>
+		<item> GHAROLI VILL. </item>
+		<item> GHAZIPUR DEPOT </item>
+		<item> GHEVERA XING </item>
+		<item> GHEVRA SAVDA J J CL </item>
+		<item> GHEVRA VILLAGE </item>
+		<item> GHOGA A.F.STN. </item>
+		<item> GHOGA AIR FORCE SCHOOL </item>
+		<item> GHOGA AIR FORCE XING </item>
+		<item> GHOGA BHATHA </item>
+		<item> GHOGA VILLAGE </item>
+		<item> GHOND </item>
+		<item> GITA CLY. 5-BLK. </item>
+		<item> G.K.M-BLK. </item>
+		<item> GK M-BLK. MKT. </item>
+		<item> GK S- BLK. </item>
+		<item> GOKUL PURI </item>
+		<item> GOLA FACTORY </item>
+		<item> GOLE MARKET </item>
+		<item> GOLF CLUB </item>
+		<item> GOLF CLUB  </item>
+		<item> GOVT MODEL SCHOOL </item>
+		<item> GOVT.PRESS </item>
+		<item> GOVT. SCHOOL DILSHAD GDN </item>
+		<item> GREEN PARK </item>
+		<item> GR. KAILASH PART-II </item>
+		<item> GTB HOSP. XING </item>
+		<item> GTB NAGAR </item>
+		<item> GTB XING </item>
+		<item> GTK BY PASS </item>
+		<item> GTK DEPOT </item>
+		<item> G.T. RD </item>
+		<item> GT ROAD XING </item>
+		<item> GULABI BAGH </item>
+		<item> GULABI BAGH DDA FLAT </item>
+		<item> GULABI BAGH XING </item>
+		<item> GUPTA CLY. </item>
+		<item> GURDWARA GEETA COLONY (H-BLK) </item>
+		<item> GURDWARA G T RD </item>
+		<item> GUR MANDI </item>
+		<item> GURUDWARA </item>
+		<item> GURUDWARA BALA SAHIB </item>
+		<item> GURU GOVIND SINGH MARG XING </item>
+		<item> HAIDAR PUR DISPENSARY </item>
+		<item> HAIDER PUR (WATER WORKS) </item>
+		<item> HAMDARD NAGAR </item>
+		<item> HAMDARD NAGAR XING </item>
+		<item> HAMID PUR </item>
+		<item> HANS APPARTMENT </item>
+		<item> HARASHVIHA </item>
+		<item> HAREWALI BORDER </item>
+		<item> HAREWALI VILLAGE </item>
+		<item> HAREWALI XING </item>
+		<item> HARGOVIND ENCLAVE </item>
+		<item> HARI NAGAR CLOCK TOWER </item>
+		<item> HARIZEN BASTI </item>
+		<item> HARSH VIHA </item>
+		<item> HASANPUR DEPOT </item>
+		<item> HAUZ KHAS(T) </item>
+		<item> HCL NOIDA SEC-16 A </item>
+		<item> HEDARPUR W.W. </item>
+		<item> HIGHWAY -24 XING </item>
+		<item> HILL AREA </item>
+		<item> HINDON REGULATOR </item>
+		<item> HINDUSTAN STEEL </item>
+		<item> HIRANKI </item>
+		<item> HIRANKI VILL. </item>
+		<item> HIRANKI XING </item>
+		<item> HIRANKUDNA XING </item>
+		<item> HOLUMBI MORE </item>
+		<item> HOLUMBI XING </item>
+		<item> HOLI FAMILY HOSPITAL </item>
+		<item> HOLUMBI KALAN </item>
+		<item> HOLUMBI KALAN JJ CLY </item>
+		<item> HOLUMBI KHURD JJ CLY </item>
+		<item> HOLY FAMILY CORNER </item>
+		<item> HOLUMBI KHURD </item>
+		<item> HOSHIARPUR VILL. </item>
+		<item> HOT MIX PLANT </item>
+		<item> H.P.DEPOT </item>
+		<item> HUMAYUN RD. </item>
+		<item> I.A.S.R. </item>
+		<item> I-BLK ASHOK VIHAR </item>
+		<item> IBRAHIM PUR </item>
+		<item> ICE FACTORY </item>
+		<item> I.G.UNIVERSITY </item>
+		<item> IIT GATE </item>
+		<item> IIT VIVEK VIHAR </item>
+		<item> INA COLONY </item>
+		<item> I.N.A.MKT </item>
+		<item> INDER APPTT. </item>
+		<item> INDER ENCLAVE </item>
+		<item> INDER LOK </item>
+		<item> INDERLOK METRO STN. </item>
+		<item> INDER PURI A-BLK </item>
+		<item> INDER PURI JJ CLY </item>
+		<item> INDIAN OIL QTR. </item>
+		<item> INDIRA PURI LONI BORDER </item>
+		<item> INDIRA PURI XING </item>
+		<item> INDIRA VIHAR </item>
+		<item> INS HOSTEL </item>
+		<item> INTERNATIONAL STUDENTS </item>
+		<item> I.P.COLLEGE </item>
+		<item> I.P.DEPOT </item>
+		<item> ISBT </item>
+		<item> ISBT KASHMIRI GATE </item>
+		<item> ISBT RING ROAD </item>
+		<item> ISHWAR NGR </item>
+		<item> ISPAT BHAWAN </item>
+		<item> IT0 </item>
+		<item> ITI VIVEK VIHAR </item>
+		<item> ITO, 8 DELHI SECT. </item>
+		<item> I.T.O AGCR </item>
+		<item> ITO (AGCR) </item>
+		<item> ITO (BSZ MARG) </item>
+		<item> ITO RING ROAD </item>
+		<item> ITO PRAGATI MAIDAN </item>
+		<item> JAFRABAD SCHOOL </item>
+		<item> JAGAT PURI A-BLOCK </item>
+		<item> JAGAT PURI XING </item>
+		<item> JAGAT PUR TEMPL </item>
+		<item> JAGAT PUR VILLAGE </item>
+		<item> JAGRITI ENCLAVE </item>
+		<item> JAHANGIR PURI B-BLOCK </item>
+		<item> JAHANGIR PURI E-BLOCK </item>
+		<item> JAHANGIR PURI GT ROAD </item>
+		<item> JAHANGIR PURI (OUTER R/RD) </item>
+		<item> JAHANGIR PURI XING </item>
+		<item> JAI CLY BHALSWA </item>
+		<item> JAIN MANDIR </item>
+		<item> JAITPUR </item>
+		<item> JAIT PUR EXTN.-I </item>
+		<item> JAIT PUR H-BLK. </item>
+		<item> JAIT PUR VILLAGE </item>
+		<item> JAIT PUR XING </item>
+		<item> JAL VIHAR TERMINAL </item>
+		<item> JAMIA MILLIA ISLAMIA UNVERSITY </item>
+		<item> JAMUNA BAZAR </item>
+		<item> JAMUNA BRIDGE (EAST) </item>
+		<item> JANTA FLATS </item>
+		<item> JANTAR MANTAR </item>
+		<item> JASOLA VILLAGE </item>
+		<item> JAT KHOR VILLAGE </item>
+		<item> JAT KHOR X-ING </item>
+		<item> JAWAHAR NAGAR </item>
+		<item> JAWALA PURI </item>
+		<item> JAYOTI NGR </item>
+		<item> J.BLOCK SAKET </item>
+		<item> JD BLK PITAM PURA </item>
+		<item> JHANGIRPURI </item>
+		<item> JHARODA DAIRY XING </item>
+		<item> JHARODA MORE </item>
+		<item> JHARODA VILLAGE </item>
+		<item> JHEEL </item>
+		<item> JHILMIL COLONY MKT </item>
+		<item> JHILMIL DDA FLATS </item>
+		<item> JHILMIL XING </item>
+		<item> JHINGOLA VILLAGE </item>
+		<item> JHORODA MORE </item>
+		<item> JHORODA VILLAGE </item>
+		<item> JHUND PURA </item>
+		<item> JHUND PURA VILLAGE </item>
+		<item> JHUND PURA X-ING </item>
+		<item> JIND PUR </item>
+		<item> J &amp;amp; k EMPORIUM </item>
+		<item> JLN. STADIUM </item>
+		<item> JOHRI PUR VILLAGE </item>
+		<item> JOHRI PUR XING </item>
+		<item> JONTI BORDE </item>
+		<item> JOR BAGH </item>
+		<item> JWALA PURI </item>
+		<item> JYONTI MANDIR </item>
+		<item> JYONTI X-ING </item>
+		<item> JYOTI COLONY </item>
+		<item> JYOTI NAGAR </item>
+		<item> KAILASH COLONY </item>
+		<item> KALIBARI MARG </item>
+		<item> KALINDI KUNJ </item>
+		<item> KALKA JI </item>
+		<item> KALKAJI DDA FLATS </item>
+		<item> KALKAJI DEPOT </item>
+		<item> KALKAJI MANDIR </item>
+		<item> KALKAJI MKT. </item>
+		<item> KALKA MANDIR </item>
+		<item> KALYANPURI </item>
+		<item> KALYAN PURI XING </item>
+		<item> KALYAN VIHAR </item>
+		<item> KAMLA MARKET </item>
+		<item> KANHAIYA NGR. </item>
+		<item> KANJAWALA </item>
+		<item> KANTI NAGAR </item>
+		<item> KARAKARDOOMA XING </item>
+		<item> KARALA PATHSHALA </item>
+		<item> KARALA VILLAGE </item>
+		<item> KARAM PURA </item>
+		<item> KARAM PURA TERML. </item>
+		<item> KARAWAL NAGAR </item>
+		<item> KARKARDOOMA FLATS </item>
+		<item> KARKARDOOMA XING </item>
+		<item> KARKAR DUMA COURT </item>
+		<item> KAROL BAGH METRO STATION </item>
+		<item> KAROL BAGH TERMINAL </item>
+		<item> KARTAR NAGAR </item>
+		<item> KASHMERE GATE ISBT </item>
+		<item> KASHMERE GATE </item>
+		<item> KASHMIR EMPORIUM </item>
+		<item> KASTURBA NAGAR </item>
+		<item> KATEWRA  </item>
+		<item> KATEWRA VILLAGE </item>
+		<item> KATEWRA X-ING </item>
+		<item> KAUSHIK ENCLAVE </item>
+		<item> KAZOORI </item>
+		<item> KD BLK MAURIYA ENCLAVE </item>
+		<item> KD BLK PITAM PURA </item>
+		<item> KEND.TERMINAL </item>
+		<item> KESHAV ENCLAVE </item>
+		<item> KESHAV MAHAVIDYALYA </item>
+		<item> KESHAV NAGAR MUKTI ASHRA </item>
+		<item> KESHAVPURAM A-1 </item>
+		<item> KESHAV PURAM B-3 </item>
+		<item> KESHAVPURAM W.T. </item>
+		<item> KEWAL PARK MCD FLAT </item>
+		<item> KHAJOORI </item>
+		<item> KHALSA COLLEGE </item>
+		<item> KHAM PUR </item>
+		<item> KHAN PUR VILLAGE </item>
+		<item> KHAZOORI </item>
+		<item> KHERA GARHI </item>
+		<item> KHERA KALAN </item>
+		<item> KHERA KALAN SCHOOL </item>
+		<item> KHERA KHURD SCHOOL </item>
+		<item> KHIALA RESTT CLY </item>
+		<item> KHIRKI VILLAGE </item>
+		<item> KHORA CLY SEC-59 </item>
+		<item> KHUREJI </item>
+		<item> KHYBERPASS </item>
+		<item> KIKARWALA CHOWK </item>
+		<item> KIRSHI BHAWAN </item>
+		<item> KISHAN GANJ DISPENSARY </item>
+		<item> KISHAN GANJ MKT. </item>
+		<item> KISHAN GHAT </item>
+		<item> K.K.XING </item>
+		<item> KNAHIYA NGR. </item>
+		<item> K.N.COLLEGE </item>
+		<item> KOHAT ENCLAVE </item>
+		<item> KOHAT METRO STN. </item>
+		<item> KONDLI </item>
+		<item> KONDLI XING </item>
+		<item> KOTHI NO 26 </item>
+		<item> K.PURA TERML </item>
+		<item> KRISHI BHAWAN </item>
+		<item> KRISHNA NAGAR </item>
+		<item> KURENI XING 25 NARELA MANDI </item>
+		<item> KUSHAK NO. </item>
+		<item> LADO SARAI </item>
+		<item> LADO SARAI XING </item>
+		<item> LAJPAT NAGAR </item>
+		<item> LAL KUAN </item>
+		<item> LAMPUR BDR </item>
+		<item> LAMPUR VILL </item>
+		<item> LAXMI BAI COLLEGE </item>
+		<item> LAXMI NARAIN MANDIR </item>
+		<item> LIBASPUR </item>
+		<item> LIBAS PUR </item>
+		<item> LIBERTY </item>
+		<item> LINK ROAD </item>
+		<item> L.N.TEMPLE </item>
+		<item> LODHI CLY. </item>
+		<item> LODHI CLY CORNER </item>
+		<item> LODHI HOTEL </item>
+		<item> LOK VIHAR </item>
+		<item> LONI ROAD XING </item>
+		<item> LONIYAN IND. </item>
+		<item> LSR COLLEGE </item>
+		<item> MADAN PUR KHADER  </item>
+		<item> MADAN PUR KHADER DAIRY </item>
+		<item> MADAN PUR KHADER JJ CLY </item>
+		<item> MADAN PUR KHADER XING </item>
+		<item> MADAN PUR XING </item>
+		<item> MADHUBAN CHOWK </item>
+		<item> MADI PUR JJ CLY </item>
+		<item> MADI PUR VILLAGE </item>
+		<item> MAHARANI BAGH </item>
+		<item> MAHINDERA PARK </item>
+		<item> MAIDAN GARHI </item>
+		<item> MAJNU KA TILLA </item>
+		<item> MALKA GANJ </item>
+		<item> MALL ROAD </item>
+		<item> MALVIYA NAGAR F-BLK </item>
+		<item> MALVIYA NGR CORNER </item>
+		<item> MANAV CHOWK </item>
+		<item> MANAV SATHALI SCHOOL </item>
+		<item> MANAV STHALI </item>
+		<item> MANDI HOUSE </item>
+		<item> MANDIR MARG </item>
+		<item> MANDOLI CHUNGI </item>
+		<item> MANDOLI SEWA DHAM </item>
+		<item> MANDOLI XING  </item>
+		<item> MANGESH PUR </item>
+		<item> MANGLAM HOSPITAL </item>
+		<item> MANGOL PURI B-BLK. </item>
+		<item> MANGOL PURI S-BLK </item>
+		<item> MANGOL PUR KHURD </item>
+		<item> MANGOL PUR SCHOOL </item>
+		<item> MANSROVER GARDEN </item>
+		<item> MARINA </item>
+		<item> MASJID MOTH </item>
+		<item> MASNDOLI XING </item>
+		<item> MATA SUNDARI COLLEGE </item>
+		<item> MATCLF HOUSE </item>
+		<item> MAURICE NAGAR </item>
+		<item> MAUSAM BHAWAN </item>
+		<item> MAXMULAR BHAWAN </item>
+		<item> MAYA PURI DEPOT </item>
+		<item> MAYA PURI XING </item>
+		<item> MAYUR VIHAR PH-1 EXT </item>
+		<item> MAYUR VIHAR PH-1 TRML. </item>
+		<item> MAYUR VIHAR PHASE-III </item>
+		<item> MAYUR VIHAR PHASE-I TRMINA </item>
+		<item> MAYUR VIHAR PH -I </item>
+		<item> MAYUR VIHAR PH-II </item>
+		<item> MAYUR VIHAR PH-III XING </item>
+		<item> MAYUR VIHAR PH-I XING </item>
+		<item> MAYUR VIHAR PKT-A </item>
+		<item> MAYUR VIHAR XING </item>
+		<item> M-BLK SAWDA JJ CLY </item>
+		<item> M-BLOCK </item>
+		<item> M.C.K.R. Hospital </item>
+		<item> MEGHDOOT BHAWAN </item>
+		<item> MEHRAULI </item>
+		<item> METAL FOREGING </item>
+		<item> MIG FLATS LONI ROAD </item>
+		<item> MINDA FARM </item>
+		<item> MINTO ROAD(T) </item>
+		<item> MITHA PUR </item>
+		<item> MITHA PUR CHOWK </item>
+		<item> MITHA PUR EXTN.(SINDHU FARM) </item>
+		<item> MODEL TOWN-II </item>
+		<item> MODERN SCHOOL </item>
+		<item> MODI FLOOR MILLS </item>
+		<item> MOHAN SINGH MKT </item>
+		<item> MOHINDRA PARK </item>
+		<item> MOHMAD PUR </item>
+		<item> MOLAR BANDH SCHOOL </item>
+		<item> MONDOLI XING </item>
+		<item> MOOL CHAND HOSPITAL </item>
+		<item> Mori Gate </item>
+		<item> MORI GATE(T) </item>
+		<item> MOTHER DAIRY </item>
+		<item> MOTI BAGH </item>
+		<item> MOTI BAGH-I </item>
+		<item> MOTI NAGAR </item>
+		<item> MOTI NAGAR EAST </item>
+		<item> MOURICE NAGAR </item>
+		<item> M.P. DEPOT </item>
+		<item> MUKAND PUR XING </item>
+		<item> MUKHERJI NGR. BANDH </item>
+		<item> MUKHERJI NGR XING </item>
+		<item> MUKHERJI PARK </item>
+		<item> MUKHMEL PUR </item>
+		<item> MUKHMEL PUR XING </item>
+		<item> MULTAN NGR </item>
+		<item> MUNDKA </item>
+		<item> MUNGESH PUR </item>
+		<item> MUNIRKA DDA </item>
+		<item> NAGIA PARK </item>
+		<item> NAGLI JALIB </item>
+		<item> NANAK PURA </item>
+		<item> NANAK SAR </item>
+		<item> Nand Nagri Community Centr </item>
+		<item> NAND NAGRI EXTENSION </item>
+		<item> NAND NAGRI TERMINAL </item>
+		<item> NANGAL THAKRAN MORE </item>
+		<item> NANGLI POONAM </item>
+		<item> NANGLI THAKRAN </item>
+		<item> NANGLI XING </item>
+		<item> NANGLOI </item>
+		<item> NANGLOI JJ CLY </item>
+		<item> NARAINA VIHAR </item>
+		<item> NARAINA VIHAR DEPOT </item>
+		<item> NARELA A-7 ( RAJA HARISH CHAND HOSP </item>
+		<item> NARELA IND. AREA </item>
+		<item> NARELA RLY. XING </item>
+		<item> NARELA TERMINAL </item>
+		<item> NATHU COLONY CHOWK </item>
+		<item> NATHUPURA XING </item>
+		<item> NATIONAL HIGHWAY-24 X-ING </item>
+		<item> NATIONAL MUSAUM </item>
+		<item> NATIONAL STADIUM </item>
+		<item> NAUROJI NAGAR </item>
+		<item> NAYA BANS </item>
+		<item> NDPO </item>
+		<item> N.D.RLY. STATION GATE NO-2 </item>
+		<item> NEB SARAI </item>
+		<item> NEHRU NAGAR </item>
+		<item> NEHRU PLACE(T) </item>
+		<item> NEHRU VIHAR </item>
+		<item> NEHRU VIHAR XING </item>
+		<item> NEW COURT </item>
+		<item> NEW DELHI RLY STATION </item>
+		<item> NEW DELHI RLY.STN GATE NO.-1 </item>
+		<item> NEW KONDLI A-1 </item>
+		<item> NEW KONDLI MKT </item>
+		<item> NEW MOTI NAGAR </item>
+		<item> NEW RAJINDER NGR MKT </item>
+		<item> NEW SEEMA PURI </item>
+		<item> NEW SEEMA PURI.XING </item>
+		<item> NEW USMAN PUR </item>
+		<item> NEW USMAN PUR I </item>
+		<item> NHW XING </item>
+		<item> NIMRI COLONY </item>
+		<item> NIRANKARI CLY </item>
+		<item> NIRMAL HOSPITAL </item>
+		<item> NITHARI VILLAGE </item>
+		<item> NIZAMUDDIN EAST </item>
+		<item> NIZAMUDDIN RLY STATION </item>
+		<item> N.J. NAGAR </item>
+		<item> Nodia Sect-82 (Kend. Vihar) </item>
+		<item> NOIDA 28/29 </item>
+		<item> NOIDA DEGREE COLLEGE </item>
+		<item> NOIDA DEPOT </item>
+		<item> NOIDA OIL QTR. </item>
+		<item> NOIDA PH-II </item>
+		<item> NOIDA SEC-10 </item>
+		<item> NOIDA SEC-11 (METRO HOSP.) </item>
+		<item> NOIDA SEC-12/22 </item>
+		<item> NOIDA SEC-12 O-BLK. </item>
+		<item> NOIDA SEC-14 </item>
+		<item> NOIDA SEC-18 </item>
+		<item> NOIDA SEC-19-B DEPOT </item>
+		<item> NOIDA SEC-19 TELEPHONE EXCHANGE </item>
+		<item> NOIDA SEC-21/25 </item>
+		<item> NOIDA SEC-22 H-BLK. </item>
+		<item> NOIDA SEC-22 X-ING </item>
+		<item> NOIDA SEC.23/53 X-ING </item>
+		<item> NOIDA SEC-27 </item>
+		<item> NOIDA SEC27 H- BLK ( SHIV MANDIR ) </item>
+		<item> NOIDA SEC-27 STAFF QTR. </item>
+		<item> NOIDA SEC-28/29 </item>
+		<item> NOIDA SEC-28/29 XING </item>
+		<item> NOIDA SEC.-3 </item>
+		<item> NOIDA SEC-30 </item>
+		<item> NOIDA SEC.-32 NTPC </item>
+		<item> NOIDA SEC-32 TERML. </item>
+		<item> NOIDA SEC-34 </item>
+		<item> NOIDA SEC-34 S.BLK </item>
+		<item> NOIDAS EC-34 UP BUS TERMINUS </item>
+		<item> NOIDA SEC-36 </item>
+		<item> NOIDA SEC-37 XING </item>
+		<item> NOIDA SEC-40 </item>
+		<item> NOIDA SEC-49 </item>
+		<item> NOIDA SEC.-51 </item>
+		<item> NOIDA SEC-51 HOSHIAR PUR VILLAGE </item>
+		<item> NOIDA SEC-55/56 XING </item>
+		<item> NOIDA SEC-56 </item>
+		<item> NOIDA SEC-6 </item>
+		<item> NOIDA SEC-60 POLICE POST </item>
+		<item> NOIDA SEC-62 (ELECTRONICS CITY </item>
+		<item> NOIDA SEC-71 </item>
+		<item> NOIDA SEC-71 XING </item>
+		<item> NOIDA SEC-8 </item>
+		<item> NOIDA SECT -22 H-BLK </item>
+		<item> Noida Sect-28/29 XING </item>
+		<item> NOIDA SECT-32 TERMINAL </item>
+		<item> Noida Sect-49/41 </item>
+		<item> NOIDA SECTOR-10 </item>
+		<item> NOIDA SECTOR-12 </item>
+		<item> NOIDA SECTOR-2 </item>
+		<item> NOIDA SECTOR STAFF QTR. </item>
+		<item> NOIDA UP ROADWAYS TERMINAL </item>
+		<item> NOIDA XING </item>
+		<item> NOOR MASJID </item>
+		<item> NOTHERN INDIA ENG.COLLEGE </item>
+		<item> OBEROI HOTEL </item>
+		<item> O-BLK SEC-12 &amp;amp; 22 </item>
+		<item> OIL FACTORY </item>
+		<item> OKHLA DEPOT </item>
+		<item> OKHLA ENCL </item>
+		<item> OKHLA ESTATE B-BLK. </item>
+		<item> OKHLA ESTATE PH-1 </item>
+		<item> OKHLA EXTN. </item>
+		<item> OKHLA EXTN. (ABDUL FAZAL ENCL) </item>
+		<item> OKHLA TANK </item>
+		<item> OLD CHANDRAWAL </item>
+		<item> OLD DELHI RAILWAY STN </item>
+		<item> OLD SECTT </item>
+		<item> OLD SEEMA PURI </item>
+		<item> ORDINANCE DEPOT </item>
+		<item> O.S.COMMUNICATION </item>
+		<item> PALIKA KENDRA </item>
+		<item> PALLA MODE </item>
+		<item> PALLA X-ING </item>
+		<item> PANCHKUIAN ROAD </item>
+		<item> PANCHSHEEL CLUB </item>
+		<item> PANDIT PARK </item>
+		<item> PANT NAGAR </item>
+		<item> PARAS CINEMA </item>
+		<item> PARSHANT VIHAR </item>
+		<item> PARSHANT VIHAR XING </item>
+		<item> PARTAP NAGAR </item>
+		<item> PARWANA ROAD </item>
+		<item> PATEL CHEST </item>
+		<item> PATEL CHOWK/PALIKA KENDRA </item>
+		<item> PATIALA HOUSE </item>
+		<item> PAYAL CINEMA </item>
+		<item> P.BAGH CLUB </item>
+		<item> P.BAGH TERMINAL </item>
+		<item> PEERA GARHI </item>
+		<item> PITAM PURA PWOR HOUSE </item>
+		<item> PITHORI </item>
+		<item> POLICE CLY. </item>
+		<item> POLICE POST </item>
+		<item> POLICE T.SCHOOL </item>
+		<item> POORVI MARG  </item>
+		<item> POOTH ASTHAL </item>
+		<item> POOTH KALAN VILLAGE </item>
+		<item> POOTH KHURD </item>
+		<item> POOTH NO. 2 </item>
+		<item> POWER HOUSE </item>
+		<item> POWER HOUSE BADARPUR </item>
+		<item> POWER HOUSE SEC-10 </item>
+		<item> POWER HOUSE SEC-20 </item>
+		<item> PPG DEPOT </item>
+		<item> P-PKT DILSHAD GARDEN </item>
+		<item> PRAGATI MAIDAN </item>
+		<item> PRAGATI VIHAR </item>
+		<item> PREHLAD PUR(SURAJ APPT.) </item>
+		<item> PRASHANT VIHAR </item>
+		<item> PRASHNAT VIHAR X-ING </item>
+		<item> PREHLAD PUR </item>
+		<item> PREHLAD PUR SCHOOL </item>
+		<item> PREHLAD PUR VILLAGE </item>
+		<item> PREM BARI PULL </item>
+		<item> PRITHVI RAJ ROAD </item>
+		<item> PS INDIRA PURI </item>
+		<item> P.S.KAMLA NAGAR </item>
+		<item> PS KIRTI NGR </item>
+		<item> P.S.NIZAMUDDIN </item>
+		<item> P.S.PAHAR GANJ </item>
+		<item> PS ROSHANARA ROAD </item>
+		<item> P.S. ROSHNARA BAGH </item>
+		<item> P.S.SAROJINI NGR </item>
+		<item> PS TRILOK PURI </item>
+		<item> P.S.TUGHLAK ROAD </item>
+		<item> PUNCHKUIAN RAOD </item>
+		<item> PUNCHSHEEL CLUB </item>
+		<item> PUNJABI BAGH CLUB </item>
+		<item> PUNJABI BAGH (T) </item>
+		<item> PUNJAB KHORE </item>
+		<item> PUNKUIN RD. </item>
+		<item> PUSA ROAD PETROL PUMP </item>
+		<item> PUSHAP VIHAR SEC.3 </item>
+		<item> PUSHPA BHAWAN </item>
+		<item> PUSHPANJALI </item>
+		<item> PUSHPANJLI ENCLAVE </item>
+		<item> PUSHTA XING </item>
+		<item> Q-BLK MANGOL PURI TERMINA </item>
+		<item> QMRUDIN NGR XING </item>
+		<item> QUDI PUR </item>
+		<item> QUDI PUR VILL. </item>
+		<item> QUTAB </item>
+		<item> QUTAB ENCLAVE </item>
+		<item> QUTAB GARH BORDER </item>
+		<item> RADHA SWAMI SATSANG </item>
+		<item> RADHU PLACE </item>
+		<item> RAGHUBIR NGR GURDWARA </item>
+		<item> RAILWAY BRIDGE XING </item>
+		<item> RAILWAY FLYOVER XING </item>
+		<item> RAILWAY XINH RING ROAD </item>
+		<item> RAINY WELL </item>
+		<item> RAJA GARDEN </item>
+		<item> RAJA HARISH CHAND HOSP. </item>
+		<item> RAJAURI GARDEN </item>
+		<item> RAJENDER NGR </item>
+		<item> RAJGHAT </item>
+		<item> RAJINDER NGR. R-BLOCK </item>
+		<item> RAJIV NAGAR </item>
+		<item> RAJ NAGAR </item>
+		<item> RAJORI GARDEN </item>
+		<item> RAKSHA VIGYAN KENDRA </item>
+		<item> RAMA VIHAR </item>
+		<item> RAMESH PARK </item>
+		<item> RAMPRASTHA XING </item>
+		<item> RAM PURA </item>
+		<item> RAM PURI </item>
+		<item> RANI BAGH </item>
+		<item> RANJEET SINGH HOTEL </item>
+		<item> RAVINDRA NGR </item>
+		<item> R-BLK RAJINDER NAGAR </item>
+		<item> RED FORT </item>
+		<item> REGAL STATESMAN </item>
+		<item> RIDGHE ROAD </item>
+		<item> RING ROAD XING </item>
+		<item> RITHALA METRO STN </item>
+		<item> R.K.PURAM CORNER </item>
+		<item> R.K.PURAM SECTOR -IV </item>
+		<item> R.K.PURAM SECTOR -II </item>
+		<item> R.K.PURAM SECTOR -VIII </item>
+		<item> R.K.PURAM SECTOR -I </item>
+		<item> R.K.PURAM SECTOR -III </item>
+		<item> R.K.PURAM XING </item>
+		<item> RLY. BRIDGE X-ING FLYOVER </item>
+		<item> RML HOSPITAL </item>
+		<item> ROAD BRIDGE </item>
+		<item> ROHINI DEPOT -II </item>
+		<item> ROHINI NALA (GAS PLANT) </item>
+		<item> ROHINI PKT- 2 </item>
+		<item> ROHINI SEC-11 XING </item>
+		<item> ROHINI SEC-13 </item>
+		<item> ROHINI SEC-15 D-2 </item>
+		<item> ROHINI SEC-17 XING </item>
+		<item> ROHINI SEC-18  </item>
+		<item> ROHINI SEC-19 POLICE CHOWKI </item>
+		<item> ROHINI SEC-20 JJ CLY. </item>
+		<item> ROHINI SEC-22(LAKHI RAM PARK </item>
+		<item> ROHINI SEC-23 2 </item>
+		<item> ROHINI SEC-24 </item>
+		<item> ROHINI SEC-3,4,5,6 XING </item>
+		<item> ROHINI SEC -7,8,9 XING </item>
+		<item> ROHINI SECT-16 </item>
+		<item> ROHINI SEC-VI (ROHIN DEPOT-1) </item>
+		<item> ROSHANARA BAGH </item>
+		<item> RP BAGH </item>
+		<item> R.R.LINES </item>
+		<item> R.S. SATSANG </item>
+		<item> RU-BLK PITAM PURA </item>
+		<item> RUSSIAN CENTER </item>
+		<item> SABHA PUR VILLAGE. </item>
+		<item> SACHDEVA PUBLIC SCHOOL </item>
+		<item> SADAR THANA </item>
+		<item> SADHU VASWANI MARG </item>
+		<item> SADIQ NAGAR </item>
+		<item> SADLAJAB </item>
+		<item> SAFIABAD BDR </item>
+		<item> SAHIN BAGH </item>
+		<item> SAHNI FARM </item>
+		<item> SAID-UL-ZAIB </item>
+		<item> SAKET J-BLK </item>
+		<item> SAKET MKT </item>
+		<item> SAKET X-ING </item>
+		<item> SALAR PUR VILL. </item>
+		<item> SAMACHAR APARTMENT </item>
+		<item> SAMASPUR JAHANGIR VILL. </item>
+		<item> SAMEY PUR </item>
+		<item> SANGAM CINEMA </item>
+		<item> SANGAM VIHAR </item>
+		<item> SANKAR RD. </item>
+		<item> SANOTH VILLAGE </item>
+		<item> SANOTH X-ING </item>
+		<item> SANT NAGAR </item>
+		<item> SAPNA CINEMA </item>
+		<item> SARAI ROHILA </item>
+		<item> SARASWATI KUNJ </item>
+		<item> SARASWATI VIHAR C-BLOCK </item>
+		<item> SARASWATI VIHAR E-BLK </item>
+		<item> SARIN FARM </item>
+		<item> SARITA VIHAR </item>
+		<item> SARITA VIHAR POCKET A&amp;H </item>
+		<item> SARITA VIHAR XING </item>
+		<item> SAROOP NGR JJ CLY (BHALSWA) </item>
+		<item> SARUP NAGAR </item>
+		<item> SATESMAN </item>
+		<item> Satyavadi Raja Harish Chander Hosp. </item>
+		<item> SAVITRI CINEMA </item>
+		<item> S BHARAT MILL </item>
+		<item> SCHOOL BLOCK SHAKAR PUR </item>
+		<item> SCINDIA HOUSE </item>
+		<item> SDM COURT </item>
+		<item> SEC-25 (AZAD CHOWK MAIN RD ) </item>
+		<item> SEELAMPUR </item>
+		<item> SEEMA PURI  </item>
+		<item> SELLAR PUR VILL. </item>
+		<item> SEWA NGR RLY XING </item>
+		<item> SHADIPUR DEPOT </item>
+		<item> SHAFIABAD XING </item>
+		<item> SHAHBAD DAIRY </item>
+		<item> SHAHBAD DAULAT PUR </item>
+		<item> SHAHDARA BORDER </item>
+		<item> SHAHDARA COURT </item>
+		<item> SHAHDARA RAILWAY BRIDGE </item>
+		<item> SHAHDARA (T) </item>
+		<item> SHAHDRA </item>
+		<item> SHAHDRA COURT </item>
+		<item> SHAHIN BAGH </item>
+		<item> SHAHJAHAN ROAD </item>
+		<item> SHAHPUR GARHI </item>
+		<item> SHAH PUR JATT </item>
+		<item> SHAID-UL-AZAB </item>
+		<item> SHAKAR PUR </item>
+		<item> SHAKAR ROAD </item>
+		<item> SHAKR PUR SCHOOL BLOCK </item>
+		<item> SHAKTI NAGAR NAGIA PARK </item>
+		<item> SHALIMAR BAGH X-ING </item>
+		<item> SHAMGIRI MANDIR </item>
+		<item> SHAM NGR (GHANTE WALA CHOWK) </item>
+		<item> SHANKAR ROAD </item>
+		<item> SHANTI VAN </item>
+		<item> SHARDHANAND CLY </item>
+		<item> SHASTRI NAGAR PUSHTA </item>
+		<item> SHASTRI NGR E-BLK </item>
+		<item> SHASTRI PARK </item>
+		<item> SHATRI NGR PUSHTA </item>
+		<item> SHAYAM GIRI MANDIR </item>
+		<item> SHED -UL ZAIB </item>
+		<item> SHEIKH SARAI-II </item>
+		<item> SHER PUR </item>
+		<item> SHIVAJI PARK </item>
+		<item> SHIVAJI STADIUM </item>
+		<item> SHIV MANDIR </item>
+		<item> SHIV PURI </item>
+		<item> SINDI CLY. </item>
+		<item> SINGHOLA VILLAGE </item>
+		<item> SINGHU BORDER </item>
+		<item> SINGHU SCHOOL </item>
+		<item> SINGHU VILLAGE </item>
+		<item> SIRAS PUR X-ING </item>
+		<item> SIR GANGA RAM HOSPITAL </item>
+		<item> SIRI FORT ROAD </item>
+		<item> S.J.AIRPORT </item>
+		<item> S.J.MADRASA </item>
+		<item> S.J.TERMINAL </item>
+		<item> S.K. KHAN </item>
+		<item> S.MAL PARK </item>
+		<item> S.M.TEMPLE </item>
+		<item> S.N.DEPOT </item>
+		<item> S.N. MKT </item>
+		<item> SONIA VIHAR -C- BLOCK </item>
+		<item> SONIA VIHAR-E Blk. </item>
+		<item> SOUTH EXTN </item>
+		<item> S.P.DEPOT </item>
+		<item> SRI FORT ROAD </item>
+		<item> SRIRAM INSTITUTE / UNIVERSITY </item>
+		<item> S.S.PARK </item>
+		<item> STAFF QUARTER NOIDA SEC-27 </item>
+		<item> STATESMAN MANDI HOUSE </item>
+		<item> ST. MICHAL SCHOOL </item>
+		<item> SUBHADARA COLONY </item>
+		<item> SUCHETA KRIPLANI HOSPITAL </item>
+		<item> SUJAN SINGH PARK </item>
+		<item> SUKHBIR NAGAR </item>
+		<item> SULTAN PUR DABA </item>
+		<item> SUMMER VILLA SCHOOL </item>
+		<item> SUNDER NAGAR </item>
+		<item> SUNDER NGR/GOLF CLUB </item>
+		<item> SUNGER PUR </item>
+		<item> SUNHERI MASJID G-BLK. </item>
+		<item> SUPER BAZAR/MARINA </item>
+		<item> SUPER BAZAR/SHIVAJI STADIUM </item>
+		<item> SUPER BAZAR  </item>
+		<item> SUPREME COURT </item>
+		<item> SURAJ MAL PARK </item>
+		<item> SURAJMAL VIHAR (T) CBD GROUN </item>
+		<item> SURYA NAGAR </item>
+		<item> SUSHANT VIHAR CLY. </item>
+		<item> SVD </item>
+		<item> SWAMI NAGAR </item>
+		<item> SWARAN PARK </item>
+		<item> SWARAN TALKIES </item>
+		<item> SWASTHYA VIHAR </item>
+		<item> TAGORE GARDEN </item>
+		<item> TAHIRPUR VILLAGE </item>
+		<item> TAJPUR KHURD </item>
+		<item> TALKATORA STADIUM </item>
+		<item> TARA APPTT </item>
+		<item> TATESAR GURUKUL </item>
+		<item> TEES HAZARI COURT </item>
+		<item> TELE.EXCHANGE (NOIDA) </item>
+		<item> TELEPHONCE EXCHANGE </item>
+		<item> TELEPHONE EXCHANGE SEC-19 </item>
+		<item> TIGGI PUR </item>
+		<item> TIKRI KHURD XING </item>
+		<item> TILAK NAGAR </item>
+		<item> TIMAR PUR </item>
+		<item> TODA PUR </item>
+		<item> TOLASTOY MARG </item>
+		<item> TOLL BRIDGE CORNER </item>
+		<item> TOLL BRIDGE PLAZA </item>
+		<item> TOLSTOY MARG XING </item>
+		<item> TOMAR CLY </item>
+		<item> TRILOK PURI 13-BLOCK </item>
+		<item> TRILOK PURI 18 -BLK </item>
+		<item> TRILOK PURI 26-BLK </item>
+		<item> TRILOK PURI 27 BLOCK </item>
+		<item> TRILOK PURI B-BLOCK </item>
+		<item> TRI NAGAR JAI MATA MARKET </item>
+		<item> T.T. POST </item>
+		<item> TUGHLAKABAD VILLAGE  </item>
+		<item> TUGLAKABAD FORT </item>
+		<item> TURKMAN GATE </item>
+		<item> UDEY PARK </item>
+		<item> UNANI RESEARCH CENTER </item>
+		<item> UNIVERSITY </item>
+		<item> UPPER RIDGE ROAD </item>
+		<item> U.P. Road Ways Bus Terminal Xing </item>
+		<item> UTTAM, NAGAR TERMINAL </item>
+		<item> UTTARI PITAM PURA </item>
+		<item> VASANT KUNJ C </item>
+		<item> VASANT KUNJ POLICE STATION </item>
+		<item> VASANT KUNJ SEC-A </item>
+		<item> VASANT VIHAR DEPOT </item>
+		<item> VASUNDHRA ENCLAVE </item>
+		<item> VIDHYA VIHAR MARG </item>
+		<item> VIGYAN BHAWAN </item>
+		<item> VIJAY GHAT </item>
+		<item> VIKAS PURI XING </item>
+		<item> VINOD NAGAR </item>
+		<item> VISHAL BAGH </item>
+		<item> VISHWAS NAGAR </item>
+		<item> VIVEKA NAND ISBT </item>
+		<item> VIVEKANAND MARG </item>
+		<item> VIVEKANAND MARG/MINTO RD. </item>
+		<item> VIVEKANAND MARG / N.D. RLY. STATION GATE NO-2 </item>
+		<item> VIVEKVIHAR </item>
+		<item> VIVEK VIHAR ITI. </item>
+		<item> V.V.DEPOT </item>
+		<item> WAZIRABAD BRIDGE </item>
+		<item> WAZIRABAD VILLAGE </item>
+		<item> WAZIRABAD X-ING </item>
+		<item> WAZIR PUR DEPOT </item>
+		<item> WAZIRPUR INDUSTRIAL AREA </item>
+		<item> WAZIRPUR JJ COLONY </item>
+		<item> WELCOME </item>
+		<item> WEST ENCLAVE </item>
+		<item> WEST GORAKH PARK DDA FLATS </item>
+		<item> WEST PATEL NAGAR </item>
+		<item> WEST VINOD NAGAR </item>
+		<item> WEST PATEL DEPOT </item>
+		<item> W.WORKS BAJEET PUR </item>
+		<item> YAMUNA BAZAR </item>
+		<item> YAMUNA BRIDGE WEST </item>
+		<item> YAMUNA VIHAR C-12 </item>
+		<item> YAMUNA VIHAR C-4 </item>
+		<item> YAMUNA VIHAR TERMINAL </item>
+		<item> YOJNA VIHAR </item>
+		<item> ZAFRABAD SCHOOL </item>
+		<item> ZAKHIRA </item>
+ </string-array>
+    
+</resources>	

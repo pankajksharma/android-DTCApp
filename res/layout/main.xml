@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textColor="#050505"
+        android:textStyle="bold"
+        android:typeface="sans"
+        android:layout_marginTop="20sp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/hello1" />
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="#101010"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/hello2" />
+    
+    <Button 
+        android:id="@+id/btnFindRouteInfo"
+        android:text="@string/btnFindRouteInfoText"
+        android:layout_marginTop="20sp"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_height="wrap_content" />
+    
+    <Button
+        android:id="@+id/btnFindBuses"
+        android:layout_marginTop="20sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnFindBusesText" />
+    
+    <Button
+        android:id="@+id/btnFindBusStands"
+        android:layout_marginTop="20sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Find Nearest Bus Stand" />
+    
+    <Button
+        android:id="@+id/btnFindRouteBetween2"
+        android:layout_marginTop="20sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnFindRoutes2Text" />
+</LinearLayout>

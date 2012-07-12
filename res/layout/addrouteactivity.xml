@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg" >
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+    	android:orientation="vertical" >
+    
+    <TextView
+        android:id="@+id/txtSrc"  
+        android:textSize="25sp"
+	    android:layout_marginTop="15sp"
+	    android:layout_width="wrap_content"
+	    android:textColor="#101010"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center_horizontal" />
+    
+    <TextView
+        android:id="@+id/txtDest" 
+        android:textSize="15sp"
+	    android:layout_marginTop="15sp"
+	    android:layout_width="wrap_content"
+	    android:textColor="#101010"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center_horizontal" />
+    
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/ll1"
+    	android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+    	android:visibility="visible"
+    	android:orientation="vertical" >    
+    
+    <TextView
+        android:text="Enter Initial Bus Route(s):" 
+        android:textSize="15sp"
+	    android:layout_marginTop="15sp"
+	    android:layout_width="wrap_content"
+	    android:textColor="#101010"
+	    android:layout_gravity="center_horizontal"
+		android:layout_height="wrap_content" />
+    
+    <EditText 
+        android:id="@+id/edtRoute1"
+        android:hint="Route(s) seperated by commas."
+        android:layout_width="wrap_content"
+	    android:layout_gravity="center_horizontal"
+		android:layout_height="wrap_content" />
+    
+    <TextView
+        android:text="Enter 1st Changing Point:" 
+        android:textSize="15sp"
+	    android:layout_marginTop="15sp"
+	    android:layout_width="wrap_content"
+	    android:textColor="#101010"
+	    android:layout_gravity="center_horizontal"
+		android:layout_height="wrap_content" />
+    
+	<AutoCompleteTextView
+	    android:id="@+id/actvChange1"
+	    android:hint="First Changing Point."
+	    android:layout_width="200dp"
+	    android:layout_marginTop="10sp"
+	    android:layout_gravity="center_horizontal"
+	    android:layout_height="wrap_content" />	    
+        
+	<TextView
+        android:text="Bus Route(s) from above Stand:" 
+        android:textSize="15sp"
+	    android:layout_marginTop="15sp"
+	    android:layout_width="wrap_content"
+	    android:textColor="#101010"
+	    android:layout_gravity="center_horizontal"
+		android:layout_height="wrap_content" />
+	
+	<EditText 
+        android:id="@+id/edtRoute2"
+        android:hint="Route(s) seperated by commas."
+        android:layout_width="wrap_content"
+	    android:layout_gravity="center_horizontal"
+		android:layout_height="wrap_content" />
+	
+	<Button
+	    android:id="@+id/btnAdd1"
+	    android:text="Add More"
+	    android:layout_width="wrap_content"
+	    android:layout_gravity="center_horizontal"
+		android:layout_height="wrap_content" />
+	</LinearLayout>
+	
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/ll2"
+    	android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+    	android:visibility="gone"
+    	android:orientation="vertical" >    
+        
+    <TextView
+        android:text="Enter  2nd Changing Point:" 
+        android:textSize="15sp"
+	    android:layout_marginTop="15sp"
+	    android:layout_width="wrap_content"
+	    android:textColor="#101010"
+	    android:layout_gravity="center_horizontal"
+		android:layout_height="wrap_content" />
+    
+	<AutoCompleteTextView
+	    android:id="@+id/actvChange2"
+	    android:hint="Enter 2nd Changing Point."
+	    android:layout_width="wrap_content"
+	    android:layout_marginTop="10sp"
+	    android:layout_gravity="center_horizontal"
+	    android:layout_height="wrap_content" />	    
+        
+	<TextView
+        android:text="Bus Route(s) from above Stand:" 
+        android:textSize="15sp"
+	    android:layout_marginTop="15sp"
+	    android:layout_width="wrap_content"
+	    android:textColor="#101010"
+	    android:layout_gravity="center_horizontal"
+		android:layout_height="wrap_content" />
+	
+	<EditText 
+        android:id="@+id/edtll2"
+        android:hint="Route(s) seperated by commas."
+        android:layout_width="wrap_content"
+	    android:layout_gravity="center_horizontal"
+		android:layout_height="wrap_content" />	
+	
+	</LinearLayout>	    
+	
+	<Button
+	    android:id="@+id/btnSubmit"
+	    android:text="Submit"
+	    android:layout_width="wrap_content"
+	    android:layout_gravity="center_horizontal"
+		android:layout_height="wrap_content" />
+	
+    </LinearLayout>
+    
+</ScrollView>
